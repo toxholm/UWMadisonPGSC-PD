@@ -11,6 +11,7 @@ Overall Plan: Meetings every two weeks, alternating between talks and hack sessi
 - Overview + Building a professional website
 - Where Physics Ph.D.s work and how to get there
 - Faculty and postdoc career panel
+- Individual Development Plans(Talk from grad school)
 - Resumes and CVs (Talk from Career Services)
 - Nailing job interiews (Talk from Career Services)
 - Proposal / Grant writing
@@ -24,6 +25,7 @@ Overall Plan: Meetings every two weeks, alternating between talks and hack sessi
 ### Hack ideas
 
 - Build websites
+- Make individual development plans
 - Update / format CVs
 - Google scholar accounts
 - Updating LinkedIn
