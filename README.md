@@ -22,7 +22,7 @@ __When and Where:__ October 3, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview:__ We will take a data-driven look at the job landscape for graduating physics Ph.D.s.
 The talk will discuss positions in academia, at national laboratories, and in the private sector.
-We will also deiscuss the typical skillset and track record of people in those postions.
+We will also discuss the typical skillset and track record of people in those postions.
 
 ---
 
