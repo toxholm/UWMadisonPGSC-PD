@@ -9,4 +9,5 @@ Through this framework, you'll be able to set yourself up to be noticed in both 
 
 ## Materials
 
+- [Why have a website and what to put on it](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_1/Websites.pdf)
 - [Steps to setting up a website with GitHub Pages](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_1/Build_A_Website.pdf)
