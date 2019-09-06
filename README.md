@@ -2,6 +2,8 @@
 
 Meeting Times: Every other Thrusday, 2:30-3:30
 
+[View an overview of the seminar series and list of topics here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_1/Overview.pdf) 
+
 ---
 
 ### Session 1: Learn to Build Your Own Website
