@@ -20,7 +20,7 @@ __Prerequisites:__ Make an account on [GitHub](https://github.com/) before the s
 
 ### Session 2: Where Physics Ph.D.s Work and How to Get There
 
-__When and Where:__ October 3, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ October 10, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview:__ We will take a data-driven look at the job landscape for graduating physics Ph.D.s.
 The talk will discuss positions in academia, at national laboratories, and in the private sector.
