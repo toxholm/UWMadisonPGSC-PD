@@ -28,18 +28,28 @@ We will also discuss the typical skillset and track record of people in those po
 
 ---
 
-### Session 3: Using Professional Development Resources at UW-Madison
+### Session 3: Building the Right Resume
 
 __When and Where:__ October 17, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+
+__Overview:__ A guide to writing the right resume for the job you want. 
+More details to come soon. 
+(Speaker Michelle Holland)
+
+---
+
+### Session 4: Using Professional Development Resources at UW-Madison
+
+__When and Where:__ October 31, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview:__ An outline of the online and in-person resources available to you for free here at UW-Madison.
 We will also get started using the self-assessment and individual development plan tools.
 
 ---
 
-### Session 4: Faculty and Postdoc Career Panel
+### Session 5: Faculty and Postdoc Career Panel
 
-__When and Where:__ October 31, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ TBD, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview:__ Faculty and postdocs in the department will share their experiences and answer your questions.
 If you would like to submit a question anonymously, please do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfV4vteyW_3-xF3oJhp-4wF0V6TOHJHkU2mx0azfoTRMcImrQ/viewform?usp=sf_link).
