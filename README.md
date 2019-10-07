@@ -32,10 +32,10 @@ We will also discuss the typical skill set and track record of people in those p
 
 __When and Where:__ October 17, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
 
-__Overview:__ In this workshop we will begin with the basics and talk through strategies and steps to create a winning resume.  
-Good resume’s don’t get you jobs but great ones do!  
-From the various parts of a resume to the fine details that really matter, this workshop will include a 10 point checklist to ensure you focus on what really matters.  
-After this workshop you will have the skills, tools, and know how to update your existing resume or start from scratch if you don’t have one yet.  
+__Overview:__ In this workshop we will begin with the basics and talk through strategies and steps to create a winning resume. 
+Good resume’s don’t get you jobs but great ones do! 
+From the various parts of a resume to the fine details that really matter, this workshop will include a 10 point checklist to ensure you focus on what really matters. 
+After this workshop you will have the skills, tools, and know how to update your existing resume or start from scratch if you don’t have one yet. 
 Feel free to bring any resume related questions to the workshop. 
 (Speaker Michelle Holland)
 
