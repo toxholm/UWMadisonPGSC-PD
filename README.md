@@ -16,6 +16,8 @@ By the end, everyone will be online!
 
 __Prerequisites:__ Make an account on [GitHub](https://github.com/) before the session.
 
+[View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_1)
+
 ---
 
 ### Session 2: Where Physics Ph.D.s Work and How to Get There
