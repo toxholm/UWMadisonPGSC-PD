@@ -45,7 +45,7 @@ Feel free to bring any resume related questions to the workshop.
 
 ### Session 4: Professional Headshots
 
-__When and Where:__ October 30, 2019; 3:00-5:00; Room TBD, Chamberlin Hall
+__When and Where:__ October 30, 2019; 3:20-5:20; Room 2116, Chamberlin Hall
 
 __Overview:__ Free professional headshots for all graduate students!
 
