@@ -43,18 +43,17 @@ Feel free to bring any resume related questions to the workshop.
 
 ---
 
-### Session 4: Using Professional Development Resources at UW-Madison
+### Session 4: Professional Headshots
 
-__When and Where:__ October 31, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ October 30, 2019; 3:00-5:00; Room TBD, Chamberlin Hall
 
-__Overview:__ An outline of the online and in-person resources available to you for free here at UW-Madison.
-We will also get started using the self-assessment and individual development plan tools.
+__Overview:__ Free professional headshots for all graduate students!
 
 ---
 
 ### Session 5: Faculty and Postdoc Career Panel
 
-__When and Where:__ TBD, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ November 13, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview:__ Faculty and postdocs in the department will share their experiences and answer your questions.
 If you would like to submit a question anonymously, please do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfV4vteyW_3-xF3oJhp-4wF0V6TOHJHkU2mx0azfoTRMcImrQ/viewform?usp=sf_link).
