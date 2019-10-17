@@ -6,31 +6,7 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ---
 
-### Session 1: Learn to Build Your Own Website
-
-__When and Where:__ September 19, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
-
-__Overview:__ The first PGSC Professional Development Session! We will briefly outline the topics for the semester.
-There will be a step-by-step walkthrough to create a free, easy-to-use personal website. 
-By the end, everyone will be online!
-
-__Prerequisites:__ Make an account on [GitHub](https://github.com/) before the session.
-
-[View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_1)
-
----
-
-### Session 2: Where Physics Ph.D.s Work and How to Get There
-
-__When and Where:__ October 10, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
-
-__Overview:__ We will take a data-driven look at the job landscape for graduating physics Ph.D.s.
-The talk will discuss positions in academia, at national laboratories, and in the private sector.
-We will also discuss the typical skill set and track record of people in those positions.
-
-[View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_2)
-
----
+## Upcoming Events
 
 ### Session 3: Your Resume: From Good to Great
 
@@ -60,6 +36,34 @@ __When and Where:__ November 13, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
 __Overview:__ Faculty and postdocs in the department will share their experiences and answer your questions.
 If you would like to submit a question anonymously, please do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfV4vteyW_3-xF3oJhp-4wF0V6TOHJHkU2mx0azfoTRMcImrQ/viewform?usp=sf_link).
 
-__Panel Members:__
+__Panel Members:__ 
+
+---
+
+## Previous Events
+
+### Session 1: Learn to Build Your Own Website
+
+__When and Where:__ September 19, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+
+__Overview:__ The first PGSC Professional Development Session! We will briefly outline the topics for the semester.
+There will be a step-by-step walkthrough to create a free, easy-to-use personal website. 
+By the end, everyone will be online!
+
+__Prerequisites:__ Make an account on [GitHub](https://github.com/) before the session.
+
+[View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_1)
+
+---
+
+### Session 2: Where Physics Ph.D.s Work and How to Get There
+
+__When and Where:__ October 10, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+
+__Overview:__ We will take a data-driven look at the job landscape for graduating physics Ph.D.s.
+The talk will discuss positions in academia, at national laboratories, and in the private sector.
+We will also discuss the typical skill set and track record of people in those positions.
+
+[View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_2)
 
 ---
