@@ -28,6 +28,8 @@ __Overview:__ We will take a data-driven look at the job landscape for graduatin
 The talk will discuss positions in academia, at national laboratories, and in the private sector.
 We will also discuss the typical skill set and track record of people in those positions.
 
+[View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_2)
+
 ---
 
 ### Session 3: Your Resume: From Good to Great
