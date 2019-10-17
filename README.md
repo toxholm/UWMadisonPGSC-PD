@@ -8,19 +8,6 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ## Upcoming Events
 
-### Session 3: Your Resume: From Good to Great
-
-__When and Where:__ October 17, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
-
-__Overview:__ In this workshop we will begin with the basics and talk through strategies and steps to create a winning resume. 
-Good resume’s don’t get you jobs but great ones do! 
-From the various parts of a resume to the fine details that really matter, this workshop will include a 10 point checklist to ensure you focus on what really matters. 
-After this workshop you will have the skills, tools, and know how to update your existing resume or start from scratch if you don’t have one yet. 
-Feel free to bring any resume related questions to the workshop. 
-(Speaker Michelle Holland)
-
----
-
 ### Session 4: Professional Headshots
 
 __When and Where:__ October 30, 2019; 3:20-5:20; Room 2116, Chamberlin Hall
@@ -67,3 +54,19 @@ We will also discuss the typical skill set and track record of people in those p
 [View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_2)
 
 ---
+
+### Session 3: Your Resume: From Good to Great
+
+__When and Where:__ October 17, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+
+__Overview:__ In this workshop we will begin with the basics and talk through strategies and steps to create a winning resume. 
+Good resume’s don’t get you jobs but great ones do! 
+From the various parts of a resume to the fine details that really matter, this workshop will include a 10 point checklist to ensure you focus on what really matters. 
+After this workshop you will have the skills, tools, and know how to update your existing resume or start from scratch if you don’t have one yet. 
+Feel free to bring any resume related questions to the workshop. 
+(Speaker Michelle Holland)
+
+[View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_3)
+
+---
+
