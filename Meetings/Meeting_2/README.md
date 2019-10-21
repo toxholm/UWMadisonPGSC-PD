@@ -2,7 +2,7 @@
 
 ### Meeting 2
 
-This week, we'll take a data-driven look at the job market for graduateing Physics PhDs.
+This week, we'll take a data-driven look at the job market for graduating Physics PhDs.
 
 The skills you'll learn pursuing your PhD will be widely-applicable and make you a good candidate for jobs in several industries.
 To go from good to great, there are additional skills that employers want that you can learn while in graduate school.
