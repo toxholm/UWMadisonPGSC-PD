@@ -8,24 +8,38 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ## Upcoming Events
 
-### Session 4: Professional Headshots
-
-__When and Where:__ October 30, 2019; 3:20-5:20; Room 2116, Chamberlin Hall
-
-__Overview:__ Free professional headshots for all graduate students!
 
 ---
 
-### Session 5: Faculty and Postdoc Career Panel
+### Session 5: Faculty and Postdoc Career Advice Panel
 
 __When and Where:__ November 13, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview:__ Faculty and postdocs in the department will share their experiences and answer your questions.
+Ask the experts how they navigated the academic job landscape! 
 If you would like to submit a question anonymously, please do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfV4vteyW_3-xF3oJhp-4wF0V6TOHJHkU2mx0azfoTRMcImrQ/viewform?usp=sf_link).
 
-__Panel Members:__ 
+__Panel Members:__ Lisa Everett, Kim Palladino, Shimon Kolkowitz, Lars Aalsma, Ross Cawthon
 
 ---
+
+### Session 6: Physicists at Google
+
+__When and Where:__ November 13, 2019; 2:30-3:30; Room TBD, Chamberlin Hall
+
+__Overview:__ Join us in welcoming recent Ph.D. graduate and now Google employee Homer Wolfmeister back to the department!
+Homer will speak about what it is like working at Google after obtaining a Ph.D. in physics and how to get there.
+After the talk, Homer will be available for individual meetings.
+Please sign up here if you are interested in meeting Homer: [Link to Google Form](https://forms.gle/BZ3ZovCaPui32tJXA)
+
+__Abstract:__ Running a planet-scale computer requires innovation for delivering storage, data processing, and ML computation at scale.
+Homer will describe some of Google's present challenges, and how teams at the Madison office have contributed unique solutions to meet those challenges.
+He’ll also cover what it's like to interview for Google, and how research experience in research Physics is valued and applicable to a wide variety of ongoing work at Google.
+
+__Speaker Bio:__ Homer Wolfmeister received his Ph.D. in Experimental Particle Physics from the University of Wisconsin, Madison on ZEUS under Prof. Wesley Smith.
+Since leaving for industry, he's worked in machine learning for data analysis, real-time fraud-detection in payment security systems, and real-time anomaly detection in enterprise computing infrastructure.
+Since joining Google in 2018, he's focused on distributed caching for providing high data throughput.
+His experience in research physics was beneficial for all these positions.
 
 ## Previous Events
 
@@ -70,3 +84,10 @@ Feel free to bring any resume related questions to the workshop.
 
 ---
 
+### Session 4: Professional Headshots
+
+__When and Where:__ October 30, 2019; 3:20-5:20; Room 2116, Chamberlin Hall
+
+__Overview:__ Free professional headshots for all graduate students!
+
+---
