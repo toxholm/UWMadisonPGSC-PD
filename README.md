@@ -25,7 +25,9 @@ __Panel Members:__ Lisa Everett, Kim Palladino, Shimon Kolkowitz, Lars Aalsma, R
 
 ### Session 6: Physicists at Google
 
-__When and Where:__ December 5, 2019; 2:30-3:30; Room TBD, Chamberlin Hall
+__When and Where:__ December 5, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+
+__RSVP:__ [Fill in this form for some free Google merch](https://goo.gle/2WKWL2j)
 
 __Overview:__ Join us in welcoming recent Ph.D. graduate and now Google employee Homer Wolfmeister back to the department!
 Homer will speak about what it is like working at Google after obtaining a Ph.D. in physics and how to get there.
