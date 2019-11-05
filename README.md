@@ -13,7 +13,7 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ### Session 5: Faculty and Postdoc Career Advice Panel
 
-__When and Where:__ November 13, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ November 13, 2019; 2:30-3:30; Room B343, Sterling Hall
 
 __Overview:__ Faculty and postdocs in the department will share their experiences and answer your questions.
 Ask the experts how they navigated the academic job landscape! 
