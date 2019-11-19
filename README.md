@@ -11,18 +11,6 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ---
 
-### Session 5: Faculty and Postdoc Career Advice Panel
-
-__When and Where:__ November 13, 2019; 2:30-3:30; Room B343, Sterling Hall
-
-__Overview:__ Faculty and postdocs in the department will share their experiences and answer your questions.
-Ask the experts how they navigated the academic job landscape! 
-If you would like to submit a question anonymously, please do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfV4vteyW_3-xF3oJhp-4wF0V6TOHJHkU2mx0azfoTRMcImrQ/viewform?usp=sf_link).
-
-__Panel Members:__ Lisa Everett, Kim Palladino, Shimon Kolkowitz, Lars Aalsma, Ross Cawthon
-
----
-
 ### Session 6: Physicists at Google
 
 __When and Where:__ December 5, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
@@ -42,6 +30,8 @@ __Speaker Bio:__ Homer Wolfmeister received his Ph.D. in Experimental Particle P
 Since leaving for industry, he's worked in machine learning for data analysis, real-time fraud-detection in payment security systems, and real-time anomaly detection in enterprise computing infrastructure.
 Since joining Google in 2018, he's focused on distributed caching for providing high data throughput.
 His experience in research physics was beneficial for all these positions.
+
+--- 
 
 ## Previous Events
 
@@ -93,3 +83,16 @@ __When and Where:__ October 30, 2019; 3:20-5:20; Room 2116, Chamberlin Hall
 __Overview:__ Free professional headshots for all graduate students!
 
 ---
+
+### Session 5: Faculty and Postdoc Career Advice Panel
+
+__When and Where:__ November 13, 2019; 2:30-3:30; Room B343, Sterling Hall
+
+__Overview:__ Faculty and postdocs in the department will share their experiences and answer your questions.
+Ask the experts how they navigated the academic job landscape! 
+If you would like to submit a question anonymously, please do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfV4vteyW_3-xF3oJhp-4wF0V6TOHJHkU2mx0azfoTRMcImrQ/viewform?usp=sf_link).
+
+__Panel Members:__ Lisa Everett, Kim Palladino, Shimon Kolkowitz, Lars Aalsma, Ross Cawthon
+
+---
+
