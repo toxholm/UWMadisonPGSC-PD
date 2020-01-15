@@ -1,4 +1,4 @@
-# Fall 2019 Schedule
+# Spring 2020 Schedule
 
 Meeting Times: Every other Thrusday, 2:30-3:30
 
@@ -11,7 +11,73 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ---
 
-Check back in January for a schedule of Professional Development Seminars for the Spring Semester.
+### Session 7: How to Get the Most out of Academic Articles
+
+__When and Where:__ TBD
+
+__Overview:__ A special seminar aimed at people getting started in research. We'll cover how to approach and work your way through dense articles, as well as articles outside of your field.
+
+__Speaker:__ TBD
+
+---
+
+### Session 8: Tell Me About Your Research!
+
+__When and Where:__ TBD
+
+__Overview:__ We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences. Learn tips and tricks for presenting what you do to anyone in the world.
+
+__Speaker:__ Sarah Perdue
+
+---
+
+### Session 9: Vroom Vroom How to Make Your Code Fast
+
+__When and Where__: If time permits
+
+__Overview:__ Knowing how to write efficient code can make your life much easier, but also will make you a more attractive job candidate. We'll discuss what makes code slow, how to profile your code, parallelization, and modules for speeding up your workflow.
+
+__Speaker:__ TBD
+
+---
+
+### Session 10: LinkedIn
+
+__When and Where:__ TBD
+
+__Overview:__ Learn how to get started with LinkedIn and how to make your page stand out. You'll also learn how to use networking and job search features of LinkedIn. This seminar will be brought to you by the Career Services Department.
+
+__Speaker:__ TBD
+
+---
+
+### Session 11: Version Control: How to Git Good
+
+__When and Where:__ TBD
+
+__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work. We'll focus mainly on `git`, and you'll learn the essentials for maintining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
+
+__Speaker:__ TBD
+
+---
+
+### Session 12: Google 2.0: Building a Resume for Industry Jobs
+
+__When and Where:__ TBD
+
+__Overview:__ TBD
+
+__Speaker:__ Homer Wolfmeister
+
+---
+
+### Backup: Professional Websites REMIX
+
+__When and Where:__ TBD
+
+__Overview:__ Professional websites are a great way to promote yourself and your work. We will go through a step-by-step walkthrough of how to create your own free, easy to maintain website to make your research available to the world. Templates will be provided and there will be time to hack on your website at the end of the seminar.
+
+__Prerequisites:__ Make an account on [GitHub](https://github.com/) before the session. You will get the most out of the seminar if you bring a laptop.
 
 --- 
 
