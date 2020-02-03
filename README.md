@@ -13,57 +13,66 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ### Session 7: How to Get the Most out of Academic Articles
 
-__When and Where:__ TBD
+__When and Where:__ February 20, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
 
-__Overview:__ A special seminar aimed at people getting started in research. We'll cover how to approach and work your way through dense articles, as well as articles outside of your field.
+__Overview:__ Getting all the information out of a dense academic article is a challenge no matter what point you're at in your physics career.
+Even if you're reading a paper very close to your field, language, figures, and presentation style can act as barriers to understanding the take-home message of the work.
+I'll cover strategies for approaching articles geared towards overcoming these barriers.
+You'll improve your research efficiency by being able to interpret the motivations, methods, results, and implications of an article after a 5-minute read.
 
-__Speaker:__ TBD
-
----
-
-### Session 8: Tell Me About Your Research!
-
-__When and Where:__ TBD
-
-__Overview:__ We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences. Learn tips and tricks for presenting what you do to anyone in the world.
-
-__Speaker:__ Sarah Perdue
+__Speaker:__ Alex Pizzuto
 
 ---
 
-### Session 9: Vroom Vroom How to Make Your Code Fast
+### Session 8: Vroom Vroom How to Make Your Code Fast
 
-__When and Where__: If time permits
+__When and Where__: March 5, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
 
-__Overview:__ Knowing how to write efficient code can make your life much easier, but also will make you a more attractive job candidate. We'll discuss what makes code slow, how to profile your code, parallelization, and modules for speeding up your workflow.
+__Overview:__ Knowing how to write efficient code can make your life much easier, but also will make you a more attractive job candidate.
+We'll discuss what makes code slow, how to profile your code, parallelization, and modules for speeding up your workflow.
 
-__Speaker:__ TBD
-
----
-
-### Session 10: LinkedIn
-
-__When and Where:__ TBD
-
-__Overview:__ Learn how to get started with LinkedIn and how to make your page stand out. You'll also learn how to use networking and job search features of LinkedIn. This seminar will be brought to you by the Career Services Department.
-
-__Speaker:__ TBD
+__Speaker:__ Rob Morgan
 
 ---
 
-### Session 11: Version Control: How to Git Good
 
-__When and Where:__ TBD
+### Session 9: Tell Me About Your Research!
 
-__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work. We'll focus mainly on `git`, and you'll learn the essentials for maintining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
+__When and Where:__ March 19, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
 
-__Speaker:__ TBD
+__Overview:__ We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
+Learn tips and tricks for presenting what you do to anyone in the world.
+
+__Speakers:__ Sarah Perdue and Madeleine O'Keefe
 
 ---
 
-### Session 12: Google 2.0: Building a Resume for Industry Jobs
+### Session 10: Version Control: How to Git Good
+
+__When and Where:__ April 2, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
+
+__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
+We'll focus mainly on `git`, and you'll learn the essentials for maintining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
+
+__Speaker:__ Rob Morgan
+
+___
+
+### Session 11: LinkedIn
 
 __When and Where:__ TBD
+
+__Overview:__ Learn how to get started with LinkedIn and how to make your page stand out.
+You'll also learn how to use networking and job search features of LinkedIn.
+This seminar will be brought to you by the Career Services Department.
+
+__Speaker:__ Michelle Holland and Career Services
+
+---
+
+### Session 12: Okay, Google: Help Me with My Resume
+
+__When and Where:__ April 30, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview:__ TBD
 
@@ -73,9 +82,11 @@ __Speaker:__ Homer Wolfmeister
 
 ### Backup: Professional Websites REMIX
 
-__When and Where:__ TBD
+__When and Where:__ (If time permits)
 
-__Overview:__ Professional websites are a great way to promote yourself and your work. We will go through a step-by-step walkthrough of how to create your own free, easy to maintain website to make your research available to the world. Templates will be provided and there will be time to hack on your website at the end of the seminar.
+__Overview:__ Professional websites are a great way to promote yourself and your work.
+We will go through a step-by-step walkthrough of how to create your own free, easy to maintain website to make your research available to the world.
+Templates will be provided and there will be time to hack on your website at the end of the seminar.
 
 __Prerequisites:__ Make an account on [GitHub](https://github.com/) before the session. You will get the most out of the seminar if you bring a laptop.
 
