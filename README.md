@@ -1,4 +1,4 @@
-# Spring 2020 ScheduleOA
+# Spring 2020 Schedule
 
 Meeting Times: Every other Thrusday, 2:30-3:30
 
