@@ -1,4 +1,4 @@
-# Spring 2020 Schedule
+# Spring 2020 ScheduleOA
 
 Meeting Times: Every other Thrusday, 2:30-3:30
 
@@ -72,9 +72,11 @@ __Speaker:__ Michelle Holland and Career Services
 
 ### Session 12: Okay, Google: Help Me with My Resume
 
-__When and Where:__ April 30, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ TBD
 
-__Overview:__ TBD
+__Overview:__ Crafting an attractive resume is a skill that takes practice to develop, but the process becomes much easier once you know what search committees are looking for. 
+Sharing his experience screening Google applicants, Homer Wolfmeister will overview the components of a strong resume for typical industry careers. 
+He will also lead a resume review excercise where you will become the reviewer, and learn to craft the perfect resume by critically analyzing sample resumes.
 
 __Speaker:__ Homer Wolfmeister
 
