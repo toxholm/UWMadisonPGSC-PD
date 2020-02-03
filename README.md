@@ -52,7 +52,7 @@ __Speakers:__ Sarah Perdue and Madeleine O'Keefe
 __When and Where:__ April 2, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
-We'll focus mainly on `git`, and you'll learn the essentials for maintining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
+We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
 
 __Speaker:__ Rob Morgan
 
