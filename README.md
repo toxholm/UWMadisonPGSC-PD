@@ -13,7 +13,7 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ### Session 7: How to Get the Most out of Academic Articles
 
-__When and Where:__ February 20, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ February 21, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
 
 __Overview:__ Getting all the information out of a dense academic article is a challenge no matter what point you're at in your physics career.
 Even if you're reading a paper very close to your field, language, figures, and presentation style can act as barriers to understanding the take-home message of the work.
