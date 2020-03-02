@@ -11,22 +11,9 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ---
 
-### Session 7: How to Get the Most out of Academic Articles
-
-__When and Where:__ February 21, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
-
-__Overview:__ Getting all the information out of a dense academic article is a challenge no matter what point you're at in your physics career.
-Even if you're reading a paper very close to your field, language, figures, and presentation style can act as barriers to understanding the take-home message of the work.
-I'll cover strategies for approaching articles geared towards overcoming these barriers.
-You'll improve your research efficiency by being able to interpret the motivations, methods, results, and implications of an article after a 5-minute read.
-
-__Speaker:__ Alex Pizzuto
-
----
-
 ### Session 8: Vroom Vroom How to Make Your Code Fast
 
-__When and Where__: March 5, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where__: March 6, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
 
 __Overview:__ Knowing how to write efficient code can make your life much easier, but also will make you a more attractive job candidate.
 We'll discuss what makes code slow, how to profile your code, parallelization, and modules for speeding up your workflow.
@@ -176,4 +163,17 @@ __Speaker Bio:__ Homer Wolfmeister received his Ph.D. in Experimental Particle P
 Since leaving for industry, he's worked in machine learning for data analysis, real-time fraud-detection in payment security systems, and real-time anomaly detection in enterprise computing infrastructure.
 Since joining Google in 2018, he's focused on distributed caching for providing high data throughput.
 His experience in research physics was beneficial for all these positions.
+
+---
+
+### Session 7: How to Get the Most out of Academic Articles
+
+__When and Where:__ February 21, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
+
+__Overview:__ Getting all the information out of a dense academic article is a challenge no matter what point you're at in your physics career.
+Even if you're reading a paper very close to your field, language, figures, and presentation style can act as barriers to understanding the take-home message of the work.
+I'll cover strategies for approaching articles geared towards overcoming these barriers.
+You'll improve your research efficiency by being able to interpret the motivations, methods, results, and implications of an article after a 5-minute read.
+
+__Speaker:__ Alex Pizzuto
 
